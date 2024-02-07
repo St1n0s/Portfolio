@@ -9,6 +9,11 @@ body{
     margin-left: 20px;
 }
 
+#header{
+    background-color: black;
+    width: 100%;
+}
+
 main{
     width: 1024px;
     margin: 0 auto;
@@ -91,8 +96,8 @@ h3{
     margin-left: 50px;
     width: 80%;
     float: right;
-    color: orange;
-    text-shadow: 0px 1px 0px black;
+    color: black;
+    text-shadow: 0px 1px 0px orange;
 }
 
 img{
@@ -182,8 +187,8 @@ img{
     float: left;
     font-family: VW Head;
     text-decoration: none;
-    color: orange;
-    text-shadow: 0px 1px 0px black;
+    color: black;
+    text-shadow: 0px 1px 0px orange;
     font-weight: bold;
 }
 
@@ -199,10 +204,10 @@ img{
 
 #contact_text{
     font-family: VW Head;
-    color: orange;
+    color: black;
     margin-left: 15px;
     margin-top: 15px;
-    text-shadow: 0px 1px 0px black;
+    text-shadow: 0px 1px 0px orange;
 }
 
 #contact{
@@ -279,9 +284,9 @@ img{
 
 #footertext{
     font-family: VW Head;
-    color: white;
+    color: black;
     font-size: 20px;
     line-height: 60px;
     margin: 0 auto;
-    text-shadow: 0px 1px 0px black;
+    text-shadow: 0px 1px 0px white;
 }
